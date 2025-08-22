@@ -10,6 +10,8 @@ Class Sixth{
      this.id=id;
   }
 
-  //Some info about it 
+  public String toString(){
+     return "ID is returning";
+  } 
 
 }
