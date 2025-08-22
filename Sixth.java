@@ -10,4 +10,6 @@ Class Sixth{
      this.id=id;
   }
 
+  //Some info about it 
+
 }
