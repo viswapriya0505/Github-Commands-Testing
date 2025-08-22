@@ -20,4 +20,8 @@ Class First{
   public String getPrice(){
     return this.price;
   }
+
+  public String getPrice(){
+    return this.price;
+  }
 }
