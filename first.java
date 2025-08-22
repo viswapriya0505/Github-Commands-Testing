@@ -15,5 +15,9 @@ Class First{
   }
   public void setName(String name){
     this.name=name;
-}
+  }
+
+  public String getPrice(){
+    return this.price;
+  }
 }
