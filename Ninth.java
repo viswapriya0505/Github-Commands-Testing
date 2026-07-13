@@ -5,6 +5,8 @@ public class Ninth{
 
   private int num2;
 
+  private int num3;
+
   public int getId(){
     return id;
   }  
