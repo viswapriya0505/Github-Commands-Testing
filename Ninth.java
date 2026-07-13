@@ -3,6 +3,8 @@ public class Ninth{
 
   private int num;
 
+  private int num2;
+
   public int getId(){
     return id;
   }  
