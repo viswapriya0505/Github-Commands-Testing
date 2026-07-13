@@ -23,4 +23,9 @@ public class Ninth{
     this.id=id;
   }
 
+  public void SetNum(int id){
+    this.id=id;
+  }
+
+
 }
